@@ -1,0 +1,2 @@
+# myLog
+log
